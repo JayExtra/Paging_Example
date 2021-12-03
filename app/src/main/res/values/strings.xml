@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paging Example</string>
+    <string name="search">search</string>
+    <string name="filter">Filter</string>
+</resources>

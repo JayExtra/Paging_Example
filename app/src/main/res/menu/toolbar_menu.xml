@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchToggle"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/cancelToggle"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="cancel"
+        app:showAsAction="ifRoom" />
+
+</menu>
